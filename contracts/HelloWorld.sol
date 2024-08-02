@@ -1,5 +1,7 @@
 pragma solidity ^0.4.18;
 
+//memo test
+
 contract HelloWorld{
     string private Text = "Hello World";
 
